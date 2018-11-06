@@ -1,0 +1,12 @@
+# See https://code-examples.net/ko-kr/docs/eslint/user-guide/configuring
+
+# dependencies
+/node_modules
+registerServiceWorker.js
+serviceWorker.js
+
+# testing
+#/coverage
+
+# production
+#/build
